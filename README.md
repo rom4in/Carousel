@@ -8,4 +8,5 @@ What do you know, it works great.
 # Swift Package
 
 `import Carousel`
-`Carousel(items:itemWidth:content:onIndexChanged:)'
+
+`Carousel(items:itemWidth:content:onIndexChanged:)`
